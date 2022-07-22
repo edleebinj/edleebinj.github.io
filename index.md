@@ -9,7 +9,7 @@
 want to see fourier transform in action in games? click [here](https://edleebinj.github.io/graphwar-generator/)  
 傅立葉變換在遊戲中的應用？[點這](https://edleebinj.github.io/graphwar-generator/)  
 
-#pika-ball
+#pika-ball  
 [皮卡丘打排球](https://github.com/edleebinj/python_pikaball)  
 [here](https://github.com/edleebinj/python_pikaball)  
 
