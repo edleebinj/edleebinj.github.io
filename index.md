@@ -15,8 +15,8 @@ want to see fourier transform in action in games? click [here](https://edleebinj
 
 #[??](https://github.com/edleebinj)
 
-go check out my newest graphwar fft equation generator at my [github page](https://github.com/edleebinj)
-also check out [https://edleebinj.github.io/graphwar-generator/](https://edleebinj.github.io/graphwar-generator/)
+go check out my newest graphwar fft equation generator at my [github page](https://github.com/edleebinj)  
+also check out [https://edleebinj.github.io/graphwar-generator/](https://edleebinj.github.io/graphwar-generator/)  
 [https://github.com/edleebinj/graphwar-generator](https://github.com/edleebinj/graphwar-generator)
 
 [Despacito on 摩爾莊園](https://www.youtube.com/watch?v=zXVp4KZaXyk&ab_channel=Ouob)
