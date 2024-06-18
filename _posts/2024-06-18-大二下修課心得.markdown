@@ -45,7 +45,7 @@ categories: jekyll update
 <summary>
 密碼學導論
 </summary>
-數學系號稱最簡單選修，小考十幾次取六次，本人因為期中100，下半學期就沒有很認真，因為隨便都A+
+數學系號稱最簡單選修，小考十幾次取六次，
 </details>
 
 <details>
