@@ -4,14 +4,14 @@ title:  "大二下修課心得"
 date:   2024-06-18 14:22:41 +0800
 categories: jekyll update
 ---
-# 大二下修課心得
-## 必修
-線性代數二
-數學系大一必修，林惠雯教授開的，老師人很好，雖然後面開始噴代數的東西，我實在學不來。
+# 必修
+<details>
+<summary>線性代數二</summary>
+數學系大一必修，林惠雯教授開的，前半學期是把 Friedberg 從 Jordan canonical form 開始教完，老師人很好，上課常常出現一些有趣的語錄，下半學期教的東西開始變得抽象，我個人是覺得缺少學習動機學習，學的不是很好。最後成績期中考整個不知道怎死的，我覺得我每題都會，但似乎最後一大堆都沒寫到助教要看的部份，最後分數大暴死，阿期末就半放棄了。吃了一個有點糟的等第。
 等地：A-
-
+</details>
 微積分二
-數學系大一必修，沈俊顏教授開的，教的清楚，等地分佈就是一般數學系必修分佈，期中期末分AB卷，都不是太難，平均大概6x，滿分100，據說B卷成績會調低，成績應該是不調分吧。
+數學系大一必修，沈俊顏教授開的，教的清楚，期中期末分AB卷，都不是太難，平均大概6x，滿分100，據說B卷成績會調低，成績應該是不調分吧。
 等地：A+
 
 作業系統
@@ -28,30 +28,6 @@ categories: jekyll update
 
 服務學習甲
 
-
-
 生成式人工智慧導論
 甜，我都沒去上課
-<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
