@@ -7,27 +7,49 @@ categories: jekyll update
 # 必修
 <details>
 <summary>線性代數二</summary>
-數學系大一必修，林惠雯教授開的，前半學期是把 Friedberg 從 Jordan canonical form 開始教完，老師人很好，上課常常出現一些有趣的語錄，下半學期教的東西開始變得抽象，我個人是覺得缺少學習動機學習，學的不是很好。最後成績期中考整個不知道怎死的，我覺得我每題都會，但似乎最後一大堆都沒寫到助教要看的部份，最後分數大暴死，阿期末就半放棄了。吃了一個有點糟的等第。
+數學系大一必修，林惠雯教授開的，前半學期是把 Friedberg 從 Jordan canonical form 開始教完，教授人真的很好，上課常常出現一些有趣的語錄，下半學期教的東西開始變得抽象，我個人是覺得缺少學習動機學習，學的不是很好。最後成績期中考整個不知道怎死的，我覺得我每題都會，但似乎最後一大堆都沒寫到助教要看的部份，分數大暴死，阿期末就半放棄了。吃了一個有點糟的等第。
 等地：A-
 </details>
+<details>
+<summary>
 微積分二
+</summary>
 數學系大一必修，沈俊顏教授開的，教的清楚，期中期末分AB卷，都不是太難，平均大概6x，滿分100，據說B卷成績會調低，成績應該是不調分吧。
 等地：A+
+</details>
 
+
+<details>
+<summary>
 作業系統
+</summary>
+</details>
 
-
+<details>
+<summary>
 計算機系統實驗
+</summary>
 這學期最迷的一門課，聽說去年超甜我才修的，結果不知道是什麼原因A+比例變超低，
+</details>
 
+<details>
+<summary>
 運動體能訓練
+</summary>
+</details>
 
+
+<details>
+<summary>
 密碼學導論
+</summary>
 數學系號稱最簡單選修，小考十幾次取六次，本人因為期中100，下半學期就沒有很認真，因為隨便都A+
+</details>
 
-
-服務學習甲
-
+<details>
+<summary>
 生成式人工智慧導論
+</summary>
 甜，我都沒去上課
+</details>
 
